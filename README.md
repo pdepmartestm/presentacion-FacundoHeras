@@ -10,6 +10,11 @@ En cuanto a mis hobbies, me gusta jugar al fútbol y al basket(jugué 3 años en
 - Black Mirror
 - Dark
 
+### Videojuegos favoritos
+- The Last of Us
+- Bioshock Infinite
+- Toda la saga de Resident Evil
+
 ### Mi foto
 ![Foto](https://i.imgur.com/PVV2H11.jpg)
 
